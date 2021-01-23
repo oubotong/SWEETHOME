@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include security&privacy, intelligent IoT
   systems(UAV, Vehicle...)
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Security and Privacy
+  - Intelligent IoT system
+  - Distributed Network
 social:
   - icon: envelope
     icon_pack: fas
