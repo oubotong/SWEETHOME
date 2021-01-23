@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: UCLA
+  - name: UCLA CS
     url: https://www.cs.ucla.edu/
 education:
   courses:
