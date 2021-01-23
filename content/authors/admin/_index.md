@@ -25,7 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: University of California, Los Angeles(UCLA)
+  - name: UCLA
+    url: https://www.cs.ucla.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
