@@ -42,6 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently a second-year Ph.D. student in computer science at UCLA. I am interested in solving security-related problems in distributed systems and networks in the IoT domain such as UAV, Vehicle, or smarthome and I am under supervisored by [Prof. Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/). Back to 2019, I got my Bachelor's degree at Shanghai Jiaotong University advised by [Prof. Yuanyuan Zhang](http://www.yyjess.com/). Personally speaking, I like to explore problems that are important and meaningful for pushing security forward to catch up with new technologies. 
+I am currently a second-year Ph.D. student in computer science at UCLA. I am interested in solving security-related problems in distributed systems and networks in the IoT domain such as UAV, Vehicle, or smarthome and I am under supervisored by [Prof. Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/). Back to 2019, I got my Bachelor's degree at Shanghai Jiaotong University advised by [Prof. Yuanyuan Zhang](http://www.yyjess.com/). Personally, I like to explore problems and new ideas that are important and meaningful for pushing security towards catching up with new technologies. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check my {{< staticref "media/Botong_ou_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
