@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently a second-year Ph.D. student in computer science at UCLA.
+I am currently a second-year Ph.D. student in computer science at UCLA. I am interested in solving security-related problems in distributed systems and networks in the IoT domain. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
