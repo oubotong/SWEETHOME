@@ -1,7 +1,7 @@
 ---
 title: Botong Ou
 role: Ph.D. student at Computer Science, UCLA
-avatar_filename: img_1990.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
