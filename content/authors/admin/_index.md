@@ -31,7 +31,7 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Security
-      institution: UCLA
+      institution: University of California, Los Angeles(UCLA)
       year: 2021
     - course: Bachelor in Computer Security
       institution: Shanghai Jiaotong University(SJTU)
