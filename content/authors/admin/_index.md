@@ -16,9 +16,9 @@ social:
       header: false
   - icon: weixin
     icon_pack: fab
-    link: github.com/oubotong/SWEETHOME/images/me.JPG
+    link: https://github.com/oubotong/SWEETHOME/images/me.JPG
     display:
-      header: true
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/oubotong
@@ -30,15 +30,12 @@ organizations:
     url: https://www.cs.ucla.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Security
+      institution: UCLA
+      year: 2021
+    - course: Bachelor in Computer Security
+      institution: Shanghai Jiaotong University(SJTU)
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
