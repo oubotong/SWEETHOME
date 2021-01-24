@@ -13,12 +13,7 @@ social:
     icon_pack: fas
     link: /#contact
     display:
-      header: false
-  - icon: weixin
-    icon_pack: fab
-    link: https://github.com/oubotong/SWEETHOME/images/me
-    display:
-      header: false
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/oubotong
