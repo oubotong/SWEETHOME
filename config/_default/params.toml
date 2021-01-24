@@ -89,7 +89,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "richard97@g.ucla.edu"
-weixin = "tianshengzhiyuanzhe"
+
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 
@@ -106,9 +106,9 @@ weixin = "tianshengzhiyuanzhe"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-#contact_links = [
-#  {icon = "weixin", icon_pack = "fab", name = "WeChat Me", link = "https://twitter.com/Twitter"},
-#  ]
+contact_links = [
+  {icon = "weixin", icon_pack = "fab", name = "tianshengzhiyuanzhe", link = ""},
+  ]
 
 ############################
 ## Social
