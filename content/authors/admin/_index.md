@@ -19,7 +19,7 @@ social:
     link: https://github.com/oubotong
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/oubotong
+    link: https:www.linkedin.com/in/oubotong
 organizations:
   - name: UCLA CS
     url: https://www.cs.ucla.edu/
