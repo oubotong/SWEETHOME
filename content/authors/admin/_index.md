@@ -16,7 +16,7 @@ social:
       header: false
   - icon: weixin
     icon_pack: fab
-    link: https://github.com/oubotong/SWEETHOME/images/me.JPG
+    link: https://github.com/oubotong/SWEETHOME/images/me
     display:
       header: false
   - icon: github
