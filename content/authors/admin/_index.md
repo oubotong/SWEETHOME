@@ -12,18 +12,19 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+    display:
+      header: false
+  - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: github.com/oubotong/SWEETHOME/images/me.JPG
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/oubotong
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/oubotong
 organizations:
   - name: UCLA CS
     url: https://www.cs.ucla.edu/
@@ -44,4 +45,4 @@ highlight_name: false
 ---
 I am currently a second-year Ph.D. student in computer science at UCLA. I am interested in solving security-related problems in distributed systems and networks in the IoT domain such as UAV, Vehicle, or smarthome and I am under supervisored by [Prof. Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/). Back to 2019, I got my Bachelor's degree at Shanghai Jiaotong University advised by [Prof. Yuanyuan Zhang](http://www.yyjess.com/). Personally, I like to explore problems and new ideas that are important and meaningful for pushing security towards catching up with new technologies. 
 
-{{< icon name="download" pack="fas" >}} Check my {{< staticref "media/Botong_ou_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check out my {{< staticref "media/Botong_ou_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
